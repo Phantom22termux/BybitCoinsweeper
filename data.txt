@@ -1,0 +1,1 @@
+query_id=AAGlvDckAwAAAKW8NyT1QjxA&user=%7B%22id%22%3A7050083493%2C%22first_name%22%3A%22Phantom%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22Phantomgamer45%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1728837038&hash=5168baa81a0de98c266b13c04c79dc73ed928c4a6647af435df66bf7d3f0504b
